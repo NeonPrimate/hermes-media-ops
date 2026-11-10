@@ -1,0 +1,16 @@
+{
+  "name": "hermes-media-ops",
+  "label": "Media Ops",
+  "version": "0.1.0",
+  "description": "Connect and verify a Media Operations MCP so Hermes can help manage a self-hosted media library in plain language.",
+  "author": "NeonPrimate",
+  "license": "MIT",
+  "kind": "standalone",
+  "manifest_version": 1,
+  "requires_hermes": ">=0.21.5",
+  "provides_tools": [],
+  "provides_hooks": [],
+  "provides_middleware": [],
+  "requires_env": [],
+  "homepage": "https://github.com/NeonPrimate/hermes-media-ops"
+}
