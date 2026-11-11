@@ -53,7 +53,7 @@ After this plugin is accepted into the Hermes Plugin Catalog, install it with:
 hermes plugins install hermes-media-ops
 ```
 
-The catalog installs the reviewed plugin at an exact commit. Until catalog acceptance, use the repository's `desktop/plugin.js` as a development installation according to the Hermes Desktop plugin documentation.
+The catalog installs the reviewed plugin at an exact commit. Until catalog acceptance, use the repository's `desktop/plugin.js` as a development installation according to the [Hermes Desktop plugin documentation](https://hermes-agent.nousresearch.com/docs/developer-guide/desktop-plugin-sdk).
 
 ### Connect your MCP
 
